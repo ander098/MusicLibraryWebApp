@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MusicLibraryWebApp
+build_property.RootNamespace = MusicLibraryWebApp
+build_property.ProjectDir = /Users/joshua/MusicLibraryWebApp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/joshua/MusicLibraryWebApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/MusicLibrary/AddAlbum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzaWNMaWJyYXJ5L0FkZEFsYnVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/MusicLibrary/AddArtist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzaWNMaWJyYXJ5L0FkZEFydGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/MusicLibrary/AddSong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzaWNMaWJyYXJ5L0FkZFNvbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/MusicLibrary/AlbumDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzaWNMaWJyYXJ5L0FsYnVtRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/MusicLibrary/ArtistDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzaWNMaWJyYXJ5L0FydGlzdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/MusicLibrary/EditSong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzaWNMaWJyYXJ5L0VkaXRTb25nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/MusicLibrary/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzaWNMaWJyYXJ5L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/MusicLibrary/SongDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzaWNMaWJyYXJ5L1NvbmdEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/MusicLibrary/SongsByGenre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzaWNMaWJyYXJ5L1NvbmdzQnlHZW5yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/MusicLibrary/TopRankedSongs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzaWNMaWJyYXJ5L1RvcFJhbmtlZFNvbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/joshua/MusicLibraryWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-u61fm61bhj

@@ -1,0 +1,13 @@
+@model MusicLibraryWebApp.Models.Album
+
+<h1>Add Album</h1>
+
+<form method="post" action="/MusicLibrary/AddAlbum">
+    <label for="Title">Album Title:</label>
+    <input type="text" id="Title" name="Title" required />
+    <br />
+    <label for="Artist">Artist:</label>
+    <input type="text" id="Artist" name="Artist" required />
+    <br />
+    <button type="submit">Add Album</button>
+</form>

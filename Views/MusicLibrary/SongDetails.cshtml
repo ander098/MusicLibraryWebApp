@@ -1,0 +1,12 @@
+@model MusicLibraryWebApp.Models.Song
+
+<h1>Song Details</h1>
+<p><strong>Title:</strong> @Model.Title</p>
+<p><strong>Artist:</strong> @Model.Artist</p>
+<p><strong>Album:</strong> @Model.Album</p>
+<p><strong>Genre:</strong> @Model.Genre</p>
+<p><strong>Rank:</strong> @Model.Rank</p>
+
+<a href="/MusicLibrary/EditSong?title=@Model.Title" class="btn btn-primary">Edit</a>
+<a href="/MusicLibrary/DeleteSong?title=@Model.Title" class="btn btn-danger">Delete</a>
+<a href="/MusicLibrary" class="btn btn-secondary">Back to Library</a>

@@ -1,0 +1,22 @@
+@model MusicLibraryWebApp.Models.Song
+
+<h1>Add Song</h1>
+
+<form method="post" action="/MusicLibrary/AddSong">
+    <label for="Title">Title:</label>
+    <input type="text" id="Title" name="Title" required />
+    <br />
+    <label for="Artist">Artist:</label>
+    <input type="text" id="Artist" name="Artist" required />
+    <br />
+    <label for="Album">Album:</label>
+    <input type="text" id="Album" name="Album" />
+    <br />
+    <label for="Genre">Genre:</label>
+    <input type="text" id="Genre" name="Genre" />
+    <br />
+    <label for="Rank">Rank (1-10):</label>
+    <input type="number" id="Rank" name="Rank" min="1" max="10" />
+    <br />
+    <button type="submit">Add Song</button>
+</form>

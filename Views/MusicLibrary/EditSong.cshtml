@@ -1,0 +1,24 @@
+@model MusicLibraryWebApp.Models.Song
+
+<h1>Edit Song</h1>
+<form method="post" action="/MusicLibrary/EditSong">
+    <input type="hidden" name="Title" value="@Model.Title" />
+    <div>
+        <label>Artist</label>
+        <input type="text" name="Artist" value="@Model.Artist" />
+    </div>
+    <div>
+        <label>Album</label>
+        <input type="text" name="Album" value="@Model.Album" />
+    </div>
+    <div>
+        <label>Genre</label>
+        <input type="text" name="Genre" value="@Model.Genre" />
+    </div>
+    <div>
+        <label>Rank</label>
+        <input type="number" name="Rank" value="@Model.Rank" />
+    </div>
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    <a href="/MusicLibrary" class="btn btn-secondary">Cancel</a>
+</form>
